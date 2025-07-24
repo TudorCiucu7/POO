@@ -1,0 +1,1 @@
+Aplicatie manager c++
